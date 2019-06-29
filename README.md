@@ -1,0 +1,2 @@
+# hellosails
+Sails get started
